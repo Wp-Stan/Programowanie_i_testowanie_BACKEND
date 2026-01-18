@@ -28,10 +28,8 @@ curl
 
 ### Krok po kroku
 # 1. Sklonuj repozytorium
-git clone [URL_TWOJEGO_REPO]
+git clone https://github.com/Wp-Stan/Programowanie_i_testowanie_BACKEND.git
 
-# 2. Przejdź do katalogu
-cd [nazwa-projektu]
 
 # 3. Zainstaluj zależności
 pip install fastapi uvicorn
